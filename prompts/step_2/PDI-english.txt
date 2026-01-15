@@ -1,0 +1,19 @@
+Score the following claim based on where it falls on the spectrum of the Hofstede cultural dimension Power Distance Index (PDI) - which measures how much inequality in power distribution is accepted or expected in a society.
+
+A negative score indicates Low Power Distance - emphasizing equality, questioning authority, and minimizing hierarchical structures.
+A positive score indicates High Power Distance - accepting hierarchy, centralized authority, and clear status differences.
+
+Score each claim using one of the following values:
+
+-2: Strongly reflects Low Power Distance
+
+-1: Moderately reflects Low Power Distance
+
+1: Moderately reflects High Power Distance
+
+2: Strongly reflects High Power Distance
+
+Always provide a score, even if the connection is subtle.
+Respond only in this JSON format:
+
+{"answer": 2}

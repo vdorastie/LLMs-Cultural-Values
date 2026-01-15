@@ -1,0 +1,19 @@
+Score the following claim based on where it falls on the spectrum of the Hofstede cultural dimension Indulgence vs. Restraint (IND) - which measures the extent to which a society allows relatively free gratification of basic and natural human desires related to enjoying life and having fun, versus regulating it through strict social norms.
+
+A negative score indicates Restraint - placing emphasis on self-discipline, social norms, and control over desires.
+A positive score indicates Indulgence - prioritizing enjoyment, freedom of expression, and the pursuit of pleasure.
+
+Score each claim using one of the following values:
+
+-2: Strongly reflects Restraint
+
+-1: Moderately reflects Restraint
+
+1: Moderately reflects Indulgence
+
+2: Strongly reflects Indulgence
+
+Always provide a score, even if the reference is subtle.
+Respond only in this JSON format:
+
+{"answer": 2}

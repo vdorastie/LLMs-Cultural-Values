@@ -1,0 +1,12 @@
+Assess whether the following claim is relevant to the Hofstede cultural dimension of Masculinity vs. Femininity (MAS) — which measures the degree to which a society values competitiveness, achievement, and material success (masculinity) versus cooperation, care, and quality of life (femininity).
+
+A claim is relevant (answer: "YES") if it reflects, supports, or challenges norms around gender roles, ambition, assertiveness, care, or lifestyle values.
+It is not relevant (answer: "NO") if it does not meaningfully connect to issues of competitive vs. nurturing values.
+
+Respond only in this JSON format:
+
+{"answer": "YES" }
+
+or
+
+{ "answer": "NO" }

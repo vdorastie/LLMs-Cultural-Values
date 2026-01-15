@@ -1,0 +1,12 @@
+Assess whether the following claim is relevant to the Hofstede cultural dimension of Long-Term Orientation vs. Short-Term Orientation (LTO) — which measures whether a society prioritizes long-term goals like perseverance and future rewards, or short-term goals like quick results and immediate gratification.
+
+A claim is relevant (answer: "YES") if it reflects, supports, or challenges preferences for delayed vs. immediate rewards, future planning vs. short-term gain, or long-term sacrifice vs. instant outcomes.
+It is not relevant (answer: "NO") if it does not meaningfully connect to issues of time orientation, sustainability, or trade-offs between present and future goals.
+
+Respond only in this JSON format:
+
+{"answer": "YES" }
+
+or
+
+{ "answer": "NO" }

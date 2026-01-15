@@ -1,0 +1,19 @@
+Score the following claim based on where it falls on the spectrum of the Hofstede cultural dimension Individualism vs. Collectivism (IDV) - which measures the extent to which people in a society are expected to act as individuals or as members of cohesive groups.
+
+A negative score indicates Collectivism - placing emphasis on group loyalty, interdependence, and the collective good.
+A positive score indicates Individualism - prioritizing personal goals, autonomy, and independence over group obligations.
+
+Score each claim using one of the following values:
+
+-2: Strongly reflects Collectivism 
+
+-1: Moderately reflects Collectivism
+
+1: Moderately reflects Individualism
+
+2: Strongly reflects Individualism
+
+Always provide a score, even if the reference is subtle.
+Respond only in this JSON format:
+
+{"answer": 2}

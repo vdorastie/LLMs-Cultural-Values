@@ -1,0 +1,19 @@
+Score the following claim based on where it falls on the spectrum of the Hofstede cultural dimension Masculinity vs. Femininity (MAS) - which measures the degree to which a society values competitiveness, achievement, and material success (masculinity) versus cooperation, care, and quality of life (femininity).
+
+A negative score indicates Femininity - emphasizing relationships, empathy, work-life balance, modesty, and well-being.
+A positive score indicates Masculinity - prioritizing ambition, competition, success, and assertiveness.
+
+Score each claim using one of the following values:
+
+-2: Strongly reflects Femininity
+
+-1: Moderately reflects Femininity
+
+1: Moderately reflects Masculinity
+
+2: Strongly reflects Masculinity
+
+Always provide a score, even if the connection is subtle.
+Respond only in this JSON format:
+
+{"answer": 2}

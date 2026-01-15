@@ -1,0 +1,19 @@
+Score the following claim based on where it falls on the spectrum of the Hofstede cultural dimension Uncertainty Avoidance Index (UAI) - which measures the degree to which members of a culture feel uncomfortable with uncertainty, ambiguity, and unstructured situations.
+
+A negative score indicates Low Uncertainty Avoidance - tolerance for ambiguity, openness to change, and comfort with uncertainty.
+A positive score indicates High Uncertainty Avoidance - preference for clear rules, stability, and resistance to change.
+
+Score each claim using one of the following values:
+
+-2: Strongly reflects Low Uncertainty Avoidance
+
+-1: Moderately reflects Low Uncertainty Avoidance
+
+1: Moderately reflects High Uncertainty Avoidance
+
+2: Strongly reflects High Uncertainty Avoidance
+
+Always provide a score, even if the connection is subtle.
+Respond only in this JSON format:
+
+{"answer": 2}

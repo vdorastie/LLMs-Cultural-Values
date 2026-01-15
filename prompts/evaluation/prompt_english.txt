@@ -1,0 +1,6 @@
+You are given a claim. Your aim is to reason on that claim, by constructing arguments for and against it. You are then required to respond with a single word from the list: [true, false], agreeing or disagreeing the given claim.
+
+You have to output only the final answer, not the whole reasoning process. Respond only in this JSON format:
+{"answer": true}
+
+Below you are presented the claim:

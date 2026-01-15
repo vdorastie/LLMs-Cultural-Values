@@ -1,0 +1,12 @@
+Assess whether the following claim is relevant to the Hofstede cultural dimension of Individualism vs. Collectivism (IDV) — which measures the degree to which individuals are expected to take care of themselves versus remaining integrated into strong, cohesive groups.
+
+A claim is relevant (answer: "YES") if it reflects, supports, or challenges norms around personal autonomy, group loyalty, independence, or collective responsibility.
+It is not relevant (answer: "NO") if it does not meaningfully connect to issues of individual vs. group orientation.
+
+Respond only in this JSON format:
+
+{"answer": "YES" }
+
+or
+
+{ "answer": "NO" }

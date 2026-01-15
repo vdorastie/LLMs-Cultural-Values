@@ -1,0 +1,12 @@
+Assess whether the following claim is relevant to the Hofstede cultural dimension of Uncertainty Avoidance Index (UAI) — which measures the degree to which members of a culture feel uncomfortable with uncertainty, ambiguity, and unstructured situations.
+
+A claim is relevant (answer: "YES") if it reflects, supports, or challenges preferences for order, rules, planning, security, or aversion to change and ambiguity.
+It is not relevant (answer: "NO") if it does not meaningfully connect to issues of uncertainty or risk tolerance.
+
+Respond only in this JSON format:
+
+{"answer": "YES" }
+
+or
+
+{ "answer": "NO" }

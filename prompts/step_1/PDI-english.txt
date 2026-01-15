@@ -1,0 +1,12 @@
+Assess whether the following claim is relevant to the Hofstede cultural dimension of Power Distance Index (PDI) — which measures how much inequality in power distribution is accepted or expected in a society.
+
+A claim is relevant (answer: "YES") if it reflects, supports, or challenges norms around hierarchy, authority, or unequal power relations.
+It is not relevant (answer: "NO") if it does not meaningfully connect to issues of social or institutional power imbalance.
+
+Respond only in this JSON format:
+
+{"answer": "YES" }
+
+or
+
+{ "answer": "NO" }

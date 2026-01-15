@@ -1,0 +1,19 @@
+Score the following claim based on where it falls on the spectrum of the Hofstede cultural dimension Long-Term Orientation vs. Short-Term Orientation (LTO) - which measures whether a society prioritizes long-term goals like perseverance and future rewards, or short-term goals like quick results and immediate gratification.
+
+A negative score indicates Short-Term Orientation - emphasizing respect for tradition, fulfilling social obligations, and achieving immediate outcomes.
+A positive score indicates Long-Term Orientation - prioritizing future rewards, long-term planning, adaptability, and persistence.
+
+Score each claim using one of the following values:
+
+-2: Strongly reflects Short-Term Orientation
+
+-1: Moderately reflects Short-Term Orientation
+
+1: Moderately reflects Long-Term Orientation
+
+2: Strongly reflects Long-Term Orientation
+
+Always provide a score, even if the connection is subtle.
+Respond only in this JSON format:
+
+{"answer": 2}

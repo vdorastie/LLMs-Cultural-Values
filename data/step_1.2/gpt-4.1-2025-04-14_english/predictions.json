@@ -1,0 +1,9843 @@
+[
+  {
+    "score": 3.6176470588235294,
+    "number_of_votes": 34,
+    "url": "affirmative-action-useful-once-outdated-today-1715.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "AffirmativeAction",
+      "Education",
+      "Equality",
+      "Gender",
+      "Race",
+      "School"
+    ]
+  },
+  {
+    "score": 2.1363636363636362,
+    "number_of_votes": 22,
+    "url": "are-arranged-marriages-better-than-love-marriages-16340.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 8,
+      "MAS": 3,
+      "UAI": 5,
+      "LTO": 4,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Culture",
+      "Ethics",
+      "Marriage",
+      "Relationships",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.555555555555555,
+    "number_of_votes": 9,
+    "url": "are-humans-primarily-driven-by-self-interest-25215.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 8,
+      "MAS": 6,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Humans",
+      "Philosophy"
+    ]
+  },
+  {
+    "score": 4.161971830985915,
+    "number_of_votes": 142,
+    "url": "are-identity-politics-detrimental-to-society-7018.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Gender",
+      "Identity",
+      "Politics",
+      "Race",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.625,
+    "number_of_votes": 8,
+    "url": "are-purity-pledges-harmful-29355.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 2,
+      "MAS": 3,
+      "UAI": 1,
+      "LTO": 2,
+      "IND": 6
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 1
+    },
+    "categories": [
+      "Feminism",
+      "Sex",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.8653846153846154,
+    "number_of_votes": 52,
+    "url": "are-women-superior-to-men-37521.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 0,
+      "MAS": 6,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Feminism",
+      "Gender",
+      "Society",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 8,
+    "url": "can-fashion-ever-be-feminist-19160.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 6,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Culture",
+      "Feminism",
+      "Lifestyle",
+      "Women"
+    ]
+  },
+  {
+    "score": 3.1379310344827585,
+    "number_of_votes": 58,
+    "url": "compulsory-voting-should-voting-be-mandatory-1692.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Elections",
+      "Politics",
+      "Society",
+      "Voting"
+    ]
+  },
+  {
+    "score": 4.4,
+    "number_of_votes": 5,
+    "url": "do-paywalls-around-academic-publications-slow-scientific-progress-27658.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 2,
+      "LTO": 5,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": -1,
+      "IND": 0
+    },
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 10,
+    "url": "do-the-ends-justify-the-means-16404.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 1,
+      "MAS": 5,
+      "UAI": 1,
+      "LTO": 3,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Justice",
+      "Morality",
+      "Philosophy"
+    ]
+  },
+  {
+    "score": 4.335664335664336,
+    "number_of_votes": 143,
+    "url": "do-we-need-nuclear-power-for-sustainable-energy-production-6182.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 6,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "ClimateChange",
+      "Energy",
+      "Environment",
+      "Technology"
+    ]
+  },
+  {
+    "score": 2.6,
+    "number_of_votes": 60,
+    "url": "does-feminism-strive-for-equality-12304.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 2,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Feminism",
+      "Gender",
+      "HumanRights",
+      "Society",
+      "Women"
+    ]
+  },
+  {
+    "score": 3.216666666666667,
+    "number_of_votes": 60,
+    "url": "gender-neutral-bathrooms-should-they-be-standard-1266.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Feminism",
+      "Gender",
+      "Sex",
+      "Transgender"
+    ]
+  },
+  {
+    "score": 2.2058823529411766,
+    "number_of_votes": 34,
+    "url": "governments-should-impose-methods-of-population-control-4615.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 7,
+      "IDV": 4,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 4,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Ethics",
+      "Government",
+      "Health",
+      "Politics"
+    ]
+  },
+  {
+    "score": 2.3076923076923075,
+    "number_of_votes": 13,
+    "url": "how-many-genders-are-there-33911.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 7,
+      "MAS": 4,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Gender",
+      "LGBTQ"
+    ]
+  },
+  {
+    "score": 4.090909090909091,
+    "number_of_votes": 11,
+    "url": "is-artificial-general-intelligence-agi-a-threat-to-humanity-13520.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 5,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Future",
+      "Intelligence",
+      "Science"
+    ]
+  },
+  {
+    "score": 1.7692307692307692,
+    "number_of_votes": 13,
+    "url": "is-bdsm-abusive-4654.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Ethics",
+      "Feminism",
+      "Morality",
+      "Sex",
+      "Violence"
+    ]
+  },
+  {
+    "score": 3.625,
+    "number_of_votes": 8,
+    "url": "is-dating-easier-for-women-38599.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 5,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": []
+  },
+  {
+    "score": 2.9166666666666665,
+    "number_of_votes": 36,
+    "url": "is-enlightened-despotism-superior-to-democracy-14224.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 3,
+      "MAS": 1,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Economics",
+      "Government",
+      "Law",
+      "Philosophy",
+      "Politics"
+    ]
+  },
+  {
+    "score": 1.943661971830986,
+    "number_of_votes": 71,
+    "url": "is-equality-of-outcome-better-than-equality-of-opportunity-16790.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 4,
+      "MAS": 6,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Equality",
+      "Ethics",
+      "Government",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.6714285714285713,
+    "number_of_votes": 70,
+    "url": "is-feminism-a-force-for-good-6492.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 1,
+      "MAS": 7,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Feminism",
+      "Philosophy",
+      "Politics",
+      "Society",
+      "Women"
+    ]
+  },
+  {
+    "score": 1.0,
+    "number_of_votes": 6,
+    "url": "is-intentional-childlessness-a-sin-18740.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 7,
+      "MAS": 4,
+      "UAI": 3,
+      "LTO": 2,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Children",
+      "Christianity",
+      "HumanRights",
+      "Parenting",
+      "Religion"
+    ]
+  },
+  {
+    "score": 3.9204545454545454,
+    "number_of_votes": 88,
+    "url": "is-it-ethically-wrong-to-watch-pornography-5428.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Ethics",
+      "Feminism",
+      "Internet",
+      "Sex",
+      "Women"
+    ]
+  },
+  {
+    "score": 4.291338582677166,
+    "number_of_votes": 127,
+    "url": "is-it-time-to-free-the-nipple-toplessness-and-gender-equality-in-the-us-1922.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 4,
+      "MAS": 6,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "America",
+      "Equality",
+      "Feminism",
+      "Gender",
+      "USA",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.8181818181818183,
+    "number_of_votes": 22,
+    "url": "is-porn-beneficial-6466.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Entertainment",
+      "Gender",
+      "Health",
+      "Morality",
+      "Sex"
+    ]
+  },
+  {
+    "score": 1.5,
+    "number_of_votes": 8,
+    "url": "is-premarital-sex-immoral-47027.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 4,
+      "MAS": 1,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Ethics",
+      "Marriage",
+      "Morality",
+      "Philosophy",
+      "Sex"
+    ]
+  },
+  {
+    "score": 2.6666666666666665,
+    "number_of_votes": 42,
+    "url": "is-saying-alllivesmatter-instead-of-blacklivesmatter-better-11037.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 1,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Race",
+      "Racism"
+    ]
+  },
+  {
+    "score": 4.6,
+    "number_of_votes": 20,
+    "url": "masturbation---is-it-acceptable-8550.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 3,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Ethics",
+      "Health",
+      "Religion",
+      "Sex",
+      "Society"
+    ]
+  },
+  {
+    "score": 1.6833333333333333,
+    "number_of_votes": 60,
+    "url": "nfl-player-protests-should-nfl-players-stand-or-kneel-for-the-national-anthem-2995.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 6,
+      "MAS": 2,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Politics",
+      "Race",
+      "Society",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.5,
+    "number_of_votes": 8,
+    "url": "no-one-should-feel-obliged-to-change-their-lifestyle-to-combat-global-warming-30084.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "UNDETERMINED",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 8,
+      "MAS": 3,
+      "UAI": 2,
+      "LTO": 4,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "ClimateChange",
+      "Environment",
+      "Lifestyle"
+    ]
+  },
+  {
+    "score": 3.7863777089783284,
+    "number_of_votes": 323,
+    "url": "pro-life-vs-pro-choice-should-abortion-be-legal-5637.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 7,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Abortion",
+      "Feminism",
+      "Health",
+      "Law",
+      "Religion",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.75,
+    "number_of_votes": 84,
+    "url": "should-a-license-be-required-in-order-to-have-a-child-procreate-2368.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 8,
+      "LTO": 3,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Ethics",
+      "Parenting",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.287981859410431,
+    "number_of_votes": 441,
+    "url": "should-all-drugs-be-legalised-7100.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Drugs",
+      "Health",
+      "Law"
+    ]
+  },
+  {
+    "score": 4.5,
+    "number_of_votes": 22,
+    "url": "should-all-people-in-the-us-have-the-right-to-basic-healthcare-31279.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 4,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Health",
+      "Healthcare"
+    ]
+  },
+  {
+    "score": 3.0833333333333335,
+    "number_of_votes": 24,
+    "url": "should-all-transgender-athletes-have-to-compete-in-mens-divisions-21194.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 2,
+      "MAS": 6,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Gender",
+      "LGBTQ",
+      "Sports",
+      "Transgender"
+    ]
+  },
+  {
+    "score": 1.9,
+    "number_of_votes": 10,
+    "url": "should-athletes-be-allowed-to-compete-in-their-chosen-gender-category-30279.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 6,
+      "MAS": 6,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Gender",
+      "Sports",
+      "Transgender"
+    ]
+  },
+  {
+    "score": 4.071428571428571,
+    "number_of_votes": 14,
+    "url": "should-australia-become-a-republic-7584.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Australia",
+      "Politics"
+    ]
+  },
+  {
+    "score": 4.508333333333334,
+    "number_of_votes": 120,
+    "url": "should-bullfighting-be-banned-1323.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 5,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "AnimalRights",
+      "Culture",
+      "Ethics",
+      "Politics"
+    ]
+  },
+  {
+    "score": 2.2,
+    "number_of_votes": 5,
+    "url": "should-burning-the-quran-be-illegal-63678.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 3,
+      "MAS": 0,
+      "UAI": 5,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Faith",
+      "FreeSpeech",
+      "Islam",
+      "Religion"
+    ]
+  },
+  {
+    "score": 1.875,
+    "number_of_votes": 16,
+    "url": "should-burning-the-us-flag-be-illegal-13817.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 5,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Constitution",
+      "Democracy",
+      "Government",
+      "Law",
+      "Politics",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.7073170731707314,
+    "number_of_votes": 41,
+    "url": "should-cannabis-be-federally-legalized-in-the-united-states-12228.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 7
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Drugs",
+      "Law",
+      "Marijuana",
+      "Medicine",
+      "USA"
+    ]
+  },
+  {
+    "score": 3.923076923076923,
+    "number_of_votes": 13,
+    "url": "should-commercial-surrogacy-be-legal-in-liberal-democracies-2210.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 6,
+      "MAS": 2,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Ethics",
+      "Law",
+      "Society",
+      "Women"
+    ]
+  },
+  {
+    "score": 3.090909090909091,
+    "number_of_votes": 22,
+    "url": "should-communism-be-preferred-over-capitalism-3252.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 1,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Capitalism",
+      "Ethics",
+      "Politics"
+    ]
+  },
+  {
+    "score": 1.5,
+    "number_of_votes": 10,
+    "url": "should-comprehensive-sex-education-be-mandatory-4401.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 5,
+      "MAS": 2,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -1
+    },
+    "categories": [
+      "Education",
+      "Policy",
+      "School",
+      "Sex"
+    ]
+  },
+  {
+    "score": 1.2352941176470589,
+    "number_of_votes": 17,
+    "url": "should-cosmetic-surgery-be-banned-11680.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 6
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Gender",
+      "Health",
+      "Law"
+    ]
+  },
+  {
+    "score": 3.3333333333333335,
+    "number_of_votes": 18,
+    "url": "should-covid-19-vaccines-be-mandatory-39517.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 8,
+      "LTO": 2,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "COVID-19",
+      "Coronavirus",
+      "Vaccines"
+    ]
+  },
+  {
+    "score": 3.5714285714285716,
+    "number_of_votes": 7,
+    "url": "should-culturally-or-historically-significant-artwork-be-property-of-the-state-2224.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 3,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Art",
+      "Culture",
+      "Ethics",
+      "Government"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 13,
+    "url": "should-election-campaigns-only-be-funded-by-the-government-26876.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Elections",
+      "Finance",
+      "Government",
+      "Money",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.1941747572815533,
+    "number_of_votes": 103,
+    "url": "should-european-monarchies-be-abolished-2206.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Europe",
+      "Politics"
+    ]
+  },
+  {
+    "score": 4.173913043478261,
+    "number_of_votes": 23,
+    "url": "should-euthanasia-be-legalised-9791.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 6,
+      "MAS": 2,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Health",
+      "HumanRights",
+      "Law"
+    ]
+  },
+  {
+    "score": 1.9333333333333333,
+    "number_of_votes": 15,
+    "url": "should-every-country-be-ethno-nationalist-6116.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Culture",
+      "Ethics",
+      "Identity",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.066666666666667,
+    "number_of_votes": 15,
+    "url": "should-fake-news-be-illegal-35818.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 6,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "News"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 56,
+    "url": "should-felons-be-allowed-to-vote-1470.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 3,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Elections",
+      "Justice",
+      "Politics",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.5714285714285714,
+    "number_of_votes": 21,
+    "url": "should-gender-reassignment-procedures-for-minors-be-allowed-29365.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 5,
+      "MAS": 2,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Gender",
+      "LGBTQ",
+      "Sexuality"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 19,
+    "url": "should-genetically-modified-organisms-or-gmos-be-promoted-as-part-of-a-sustainable-agricultural-economy-5465.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 7,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Environment",
+      "Ethics",
+      "GMO"
+    ]
+  },
+  {
+    "score": 3.5,
+    "number_of_votes": 18,
+    "url": "should-girls-be-allowed-in-boy-scouts-14422.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 5,
+      "MAS": 8,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Culture",
+      "Equality",
+      "Feminism",
+      "Gender"
+    ]
+  },
+  {
+    "score": 2.5714285714285716,
+    "number_of_votes": 14,
+    "url": "should-google-censor-their-search-results-in-order-to-operate-in-china-18304.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 7,
+      "IDV": 3,
+      "MAS": 0,
+      "UAI": 4,
+      "LTO": 2,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Internet",
+      "Technology",
+      "World"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 149,
+    "url": "should-governments-ever-limit-free-speech-22454.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "FreeSpeech",
+      "HumanRights",
+      "USA"
+    ]
+  },
+  {
+    "score": 2.1636363636363636,
+    "number_of_votes": 55,
+    "url": "should-governments-make-an-effort-to-reduce-the-gender-pay-gap-5904.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 3,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Gender",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.63265306122449,
+    "number_of_votes": 49,
+    "url": "should-governments-provide-a-universal-basic-income-14053.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "UNDETERMINED",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 6,
+      "MAS": 4,
+      "UAI": 4,
+      "LTO": 4,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Equality",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.8333333333333335,
+    "number_of_votes": 24,
+    "url": "should-governments-push-to-implement-100%2525-renewable-energy-3871.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 3,
+      "UAI": 3,
+      "LTO": 7,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "ClimateChange",
+      "Economics",
+      "Politics",
+      "Technology"
+    ]
+  },
+  {
+    "score": 3.5714285714285716,
+    "number_of_votes": 14,
+    "url": "should-health-care-providers-annually-be-made-to-get-the-flu-vaccine-9124.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 7,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Government",
+      "Health",
+      "Science"
+    ]
+  },
+  {
+    "score": 1.2857142857142858,
+    "number_of_votes": 21,
+    "url": "should-homeschooling-be-banned-9647.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 6,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "America",
+      "Education",
+      "Law",
+      "Policy",
+      "School",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.415094339622642,
+    "number_of_votes": 53,
+    "url": "should-humanity-establish-colonies-on-mars-2495.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 3,
+      "UAI": 0,
+      "LTO": 6,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Life",
+      "Science",
+      "Space",
+      "Technology"
+    ]
+  },
+  {
+    "score": 4.638297872340425,
+    "number_of_votes": 141,
+    "url": "should-humans-act-to-fight-climate-change-4540.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 3,
+      "UAI": 1,
+      "LTO": 7,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Climate",
+      "Environment",
+      "Humans",
+      "Science",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.4,
+    "number_of_votes": 10,
+    "url": "should-it-be-okay-to-publicly-approach-strangers-for-sex-29427.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 4,
+      "MAS": 2,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Ethics",
+      "Gender",
+      "Sexuality"
+    ]
+  },
+  {
+    "score": 4.833333333333333,
+    "number_of_votes": 6,
+    "url": "should-marijuana-be-as-legally-accessible-as-alcohol-32830.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Drugs",
+      "Germany",
+      "Law",
+      "Marijuana"
+    ]
+  },
+  {
+    "score": 4.253333333333333,
+    "number_of_votes": 75,
+    "url": "should-military-conscription-apply-to-men-and-women-equally-2439.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 4,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Conscription",
+      "Gender",
+      "Military",
+      "Politics"
+    ]
+  },
+  {
+    "score": 4.21875,
+    "number_of_votes": 32,
+    "url": "should-nuclear-energy-replace-fossil-fuels-9326.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 5,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "ClimateChange",
+      "Economics",
+      "Environment",
+      "Science"
+    ]
+  },
+  {
+    "score": 3.1904761904761907,
+    "number_of_votes": 21,
+    "url": "should-organ-donation-be-mandatory-9980.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 1,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Health",
+      "HumanRights",
+      "Law"
+    ]
+  },
+  {
+    "score": 2.2857142857142856,
+    "number_of_votes": 7,
+    "url": "should-parents-who-dont-vaccinate-their-children-be-fined-if-the-child-gets-a-vaccine-preventable-illness-9269.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 7,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Health",
+      "Parents",
+      "Science",
+      "Vaccines"
+    ]
+  },
+  {
+    "score": 4.084507042253521,
+    "number_of_votes": 71,
+    "url": "should-people-have-the-right-and-means-to-end-their-lives-985.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 8,
+      "MAS": 1,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Humans",
+      "Law",
+      "Life",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.888888888888889,
+    "number_of_votes": 9,
+    "url": "should-people-marry-outside-their-religious-faith-30171.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Diversity",
+      "Marriage",
+      "Religion",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.19672131147541,
+    "number_of_votes": 61,
+    "url": "should-private-schools-be-banned-12828.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 4,
+      "MAS": 2,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Business",
+      "Education",
+      "Equality",
+      "Freedom"
+    ]
+  },
+  {
+    "score": 4.666666666666667,
+    "number_of_votes": 9,
+    "url": "should-public-displays-of-affection-pda-be-allowed-in-middle-school-and-high-school-22714.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 3,
+      "MAS": 4,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Children",
+      "Education",
+      "Politics",
+      "School",
+      "Sex",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.148148148148148,
+    "number_of_votes": 243,
+    "url": "should-public-nudity-be-legal-16068.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Culture",
+      "Gender",
+      "Law",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.4,
+    "number_of_votes": 5,
+    "url": "should-quebec-become-independent-6980.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Law",
+      "Politics",
+      "World"
+    ]
+  },
+  {
+    "score": 3.259259259259259,
+    "number_of_votes": 27,
+    "url": "should-quotas-for-women-on-boards-and-in-managerial-positions-be-mandatory-9821.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 5,
+      "MAS": 8,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": -1,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Business",
+      "Gender",
+      "Politics",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.875,
+    "number_of_votes": 16,
+    "url": "should-refugees-seeking-asylum-in-europe-be-distributed-among-eu-member-states-according-to-a-quota-27820.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 2,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Europe",
+      "Politics",
+      "Society",
+      "Thistimeimvoting"
+    ]
+  },
+  {
+    "score": 3.6956521739130435,
+    "number_of_votes": 23,
+    "url": "should-school-be-mandatory-7614.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 3,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 2,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Education",
+      "Parenting",
+      "School"
+    ]
+  },
+  {
+    "score": 3.1739130434782608,
+    "number_of_votes": 23,
+    "url": "should-school-uniforms-be-banned-12545.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "School"
+    ]
+  },
+  {
+    "score": 3.3181818181818183,
+    "number_of_votes": 22,
+    "url": "should-single-sex-schools-be-banned-16107.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 5,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "Gender"
+    ]
+  },
+  {
+    "score": 3.6216216216216215,
+    "number_of_votes": 37,
+    "url": "should-society-normalise-men-wearing-dressesskirts-18720.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 7,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Equality",
+      "Feminism",
+      "Gender",
+      "LGBTQ"
+    ]
+  },
+  {
+    "score": 2.3333333333333335,
+    "number_of_votes": 6,
+    "url": "should-standardized-testing-be-abolished-37610.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 5,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": -2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "School"
+    ]
+  },
+  {
+    "score": 3.6,
+    "number_of_votes": 5,
+    "url": "should-suicide-be-legal-61100.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Law",
+      "Legal"
+    ]
+  },
+  {
+    "score": 4.222222222222222,
+    "number_of_votes": 9,
+    "url": "should-taxpayers-have-direct-control-of-how-their-taxes-are-spent-8148.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 8,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Economics",
+      "Government",
+      "Politics",
+      "Taxation"
+    ]
+  },
+  {
+    "score": 3.6758241758241756,
+    "number_of_votes": 182,
+    "url": "should-the-electoral-college-be-abolished-2469.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "America",
+      "Elections",
+      "Government",
+      "History",
+      "Politics",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.0396825396825395,
+    "number_of_votes": 126,
+    "url": "should-the-eu-have-its-own-army-27791.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "EU",
+      "Europe",
+      "Military",
+      "Politics",
+      "Thistimeimvoting"
+    ]
+  },
+  {
+    "score": 4.62962962962963,
+    "number_of_votes": 108,
+    "url": "should-the-primary-focus-of-prisons-be-rehabilitation-or-punishment-2903.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 4,
+      "MAS": 7,
+      "UAI": 2,
+      "LTO": 5,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Crime",
+      "Ethics",
+      "Justice",
+      "Law",
+      "Politics"
+    ]
+  },
+  {
+    "score": 2.786206896551724,
+    "number_of_votes": 145,
+    "url": "should-the-us-pay-reparations-for-slavery-1324.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "America",
+      "Politics",
+      "Race",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.5573770491803278,
+    "number_of_votes": 122,
+    "url": "should-the-use-of-chosen-or-gender-neutral-pronouns-be-mandatory-15978.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 6,
+      "MAS": 4,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Gender",
+      "Health",
+      "Politics",
+      "Science",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.9961759082217974,
+    "number_of_votes": 523,
+    "url": "should-there-be-a-universal-basic-income-ubi-1634.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "UNDETERMINED",
+      "LTO": "UNDETERMINED",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 4,
+      "UAI": 4,
+      "LTO": 4,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Equality",
+      "Government",
+      "Money",
+      "Politics",
+      "Poverty"
+    ]
+  },
+  {
+    "score": 2.6,
+    "number_of_votes": 5,
+    "url": "should-there-be-a-upper-age-limit-for-voting-14742.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Elections",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.54,
+    "number_of_votes": 50,
+    "url": "should-there-be-any-limit-to-freedom-of-speech-3253.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Law",
+      "Philosophy",
+      "Politics",
+      "Speech"
+    ]
+  },
+  {
+    "score": 3.235294117647059,
+    "number_of_votes": 17,
+    "url": "should-there-be-one-world-state-30339.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 8,
+      "MAS": 1,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Culture",
+      "Economics",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.585185185185185,
+    "number_of_votes": 135,
+    "url": "should-trump-be-impeached-and-removed-from-office-5601.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Politics",
+      "Trump",
+      "USA"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 14,
+    "url": "should-underage-individuals-be-permitted-to-watch-pornography-28739.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Ethics",
+      "Legal"
+    ]
+  },
+  {
+    "score": 3.1818181818181817,
+    "number_of_votes": 33,
+    "url": "should-us-presidents-have-the-power-to-issue-pardons-2868.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "America",
+      "Justice",
+      "Law",
+      "Politics",
+      "Trump",
+      "USA"
+    ]
+  },
+  {
+    "score": 3.0454545454545454,
+    "number_of_votes": 22,
+    "url": "should-veganvegetarian-parents-feed-their-kids-the-same-diet-23139.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 1,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Education",
+      "Vegan",
+      "Vegetarian"
+    ]
+  },
+  {
+    "score": 3.1818181818181817,
+    "number_of_votes": 11,
+    "url": "should-video-game-storytelling-portray-gender-equality-30181.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 0,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Gender",
+      "Media",
+      "VideoGames"
+    ]
+  },
+  {
+    "score": 2.7,
+    "number_of_votes": 10,
+    "url": "should-we-adapt-to-climate-change-rather-than-avert-it-31679.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 5,
+      "LTO": 6,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": -1,
+      "LTO": 1,
+      "IND": 0
+    },
+    "categories": [
+      "Environment"
+    ]
+  },
+  {
+    "score": 2.5,
+    "number_of_votes": 16,
+    "url": "should-we-have-a-100%2525-inheritance-tax-444.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 1,
+      "LTO": 3,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "EconomicInequality",
+      "Politics",
+      "Economics",
+      "Taxation"
+    ]
+  },
+  {
+    "score": 3.4027777777777777,
+    "number_of_votes": 72,
+    "url": "should-women-only-spaces-be-open-to-anyone-identifying-as-a-woman-18042.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 6,
+      "MAS": 3,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Feminism",
+      "Gender",
+      "Society",
+      "Transgender",
+      "Women"
+    ]
+  },
+  {
+    "score": 3.7045454545454546,
+    "number_of_votes": 44,
+    "url": "should-you-confess-to-cheating-after-a-one-night-stand-1384.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 6,
+      "MAS": 3,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Marriage",
+      "Relationships",
+      "Sex"
+    ]
+  },
+  {
+    "score": 3.8,
+    "number_of_votes": 5,
+    "url": "sortition-is-better-than-representation-16420.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Policy",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.4,
+    "number_of_votes": 5,
+    "url": "the-us-should-implement-a-tax-on-wealth-on-the-super-rich-26938.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 3,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Money",
+      "Poverty",
+      "Taxation"
+    ]
+  },
+  {
+    "score": 3.1794871794871793,
+    "number_of_votes": 39,
+    "url": "time-for-a-maximum-wage-should-the-us-limit-ceo-pay-2141.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 5,
+      "MAS": 7,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": -1,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "America",
+      "Capitalism",
+      "SocialJustice",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.571428571428571,
+    "number_of_votes": 7,
+    "url": "we-should-build-an-international-space-elevator-10054.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 6,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Earth",
+      "Future",
+      "Science",
+      "Space",
+      "Technology"
+    ]
+  },
+  {
+    "score": 3.3333333333333335,
+    "number_of_votes": 6,
+    "url": "we-should-build-lagrange-colonies-before-settling-on-mars-11268.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 7,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Earth",
+      "Science",
+      "Space"
+    ]
+  },
+  {
+    "score": 3.1666666666666665,
+    "number_of_votes": 42,
+    "url": "who-should-self-driving-cars-kill-1546.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 7,
+      "MAS": 4,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "AI",
+      "Cars",
+      "Ethics",
+      "Law",
+      "Technology"
+    ]
+  },
+  {
+    "score": 3.066666666666667,
+    "number_of_votes": 15,
+    "url": "will-sex-robots-advance-sexual-liberation-5359.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 3,
+      "MAS": 3,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "AI",
+      "Ethics",
+      "Sex",
+      "Technology",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.909090909090909,
+    "number_of_votes": 11,
+    "url": "will-sex-robots-liberate-the-next-generation-of-women-4214.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 3,
+      "MAS": 5,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Freedom",
+      "Gender",
+      "Sex",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.150943396226415,
+    "number_of_votes": 106,
+    "url": "would-a-genderless-society-be-better-16617.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 1,
+      "MAS": 7,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Gender",
+      "LGBTQ",
+      "Philosophy",
+      "Society"
+    ]
+  },
+  {
+    "score": 1.8333333333333333,
+    "number_of_votes": 6,
+    "url": "3d-printer-and-guns-should-blueprints-of-3d-printed-weapons-be-prohibited-17593.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 3,
+      "MAS": 1,
+      "UAI": 8,
+      "LTO": 1,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Gun",
+      "Science"
+    ]
+  },
+  {
+    "score": 2.727272727272727,
+    "number_of_votes": 11,
+    "url": "an-anarchist-society-is-preferable-43725.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 6,
+      "MAS": 4,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Capitalism",
+      "Freedom"
+    ]
+  },
+  {
+    "score": 3.6,
+    "number_of_votes": 5,
+    "url": "appointments-to-the-us-supreme-court-should-be-for-fixed-18-year-terms-23850.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 5,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 1,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Law",
+      "Politics",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.333333333333333,
+    "number_of_votes": 9,
+    "url": "are-unions-a-good-thing-2760.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 6,
+      "MAS": 3,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.4285714285714284,
+    "number_of_votes": 14,
+    "url": "are-video-games-the-best-source-of-entertainment-15596.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 7
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Entertainment",
+      "Games"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 10,
+    "url": "can-modern-society-achieve-direct-democracy-24632.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "Government",
+      "Philosophy",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.8,
+    "number_of_votes": 30,
+    "url": "catalans-should-have-the-right-to-decide-on-independence-with-a-binding-referendum-8547.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 7,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Catalonia",
+      "Ethics",
+      "Independence",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.24,
+    "number_of_votes": 50,
+    "url": "children-voting-should-the-minimum-voting-age-be-abolished-8516.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 7,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Elections",
+      "Government",
+      "Law",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.3666666666666667,
+    "number_of_votes": 30,
+    "url": "do-parents-have-an-obligation-to-genetically-enhance-their-babies-1472.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 4,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Ethics",
+      "Parenting",
+      "Science"
+    ]
+  },
+  {
+    "score": 2.142857142857143,
+    "number_of_votes": 21,
+    "url": "do-people-have-a-right-to-not-wear-a-mask-in-public-spaces-during-the-covid-19-pandemic-38770.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 8,
+      "MAS": 1,
+      "UAI": 3,
+      "LTO": 2,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "COVID-19",
+      "Freedom",
+      "Pandemic",
+      "Rights"
+    ]
+  },
+  {
+    "score": 4.166666666666667,
+    "number_of_votes": 18,
+    "url": "do-we-need-more-and-stronger-international-institutions-5515.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 6,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "HumanRights",
+      "Society",
+      "War"
+    ]
+  },
+  {
+    "score": 3.2604166666666665,
+    "number_of_votes": 96,
+    "url": "does-feminism-empower-both-women-and-men-18807.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 6,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 1,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Feminism",
+      "Gender"
+    ]
+  },
+  {
+    "score": 2.875,
+    "number_of_votes": 24,
+    "url": "does-gender-stereotyping-children-need-to-stop-18429.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 2,
+      "MAS": 8,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Equality",
+      "Gender",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 15,
+    "url": "does-tiger-parenting-do-more-harm-than-good-22035.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 8,
+      "UAI": 3,
+      "LTO": 3,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Children",
+      "Education",
+      "Ethics",
+      "Parenting"
+    ]
+  },
+  {
+    "score": 1.5454545454545454,
+    "number_of_votes": 11,
+    "url": "how-much-say-should-a-father-have-with-abortion-17835.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 7,
+      "MAS": 5,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": -2,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Abortion",
+      "Ethics",
+      "Gender"
+    ]
+  },
+  {
+    "score": 1.75,
+    "number_of_votes": 8,
+    "url": "is-adultery-ethical-5246.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Ethics"
+    ]
+  },
+  {
+    "score": 2.8,
+    "number_of_votes": 5,
+    "url": "is-bitcoins-worth-entirely-speculative-5946.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": -1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Blockchain",
+      "Crypto",
+      "Cryptocurrency",
+      "Economics",
+      "Finance"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 8,
+    "url": "is-chivalry-sexist-16419.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 0,
+      "MAS": 5,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Culture",
+      "Feminism",
+      "Gender",
+      "Society",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.2708333333333335,
+    "number_of_votes": 48,
+    "url": "is-communism-actually-viable-in-the-usa-16083.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "America",
+      "Economics",
+      "Government",
+      "Politics",
+      "Society",
+      "USA"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 7,
+    "url": "is-female-education-the-most-important-objective-to-improve-quality-of-life-6090.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 4,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Education",
+      "Environment",
+      "Equality",
+      "Life",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.3125,
+    "number_of_votes": 16,
+    "url": "is-freedom-of-sexuality-inducing-harm-33433.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 3,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Culture",
+      "Psychology",
+      "Sex",
+      "Sociology"
+    ]
+  },
+  {
+    "score": 2.4285714285714284,
+    "number_of_votes": 63,
+    "url": "is-gillettes-toxic-masculinity-ad-good-25158.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 3,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Advertising",
+      "Feminism"
+    ]
+  },
+  {
+    "score": 4.666666666666667,
+    "number_of_votes": 9,
+    "url": "is-it-acceptable-for-women-to-propose-marriage-to-men-24634.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 8,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Culture",
+      "Marriage",
+      "Relationships",
+      "Society",
+      "Women"
+    ]
+  },
+  {
+    "score": 1.6511627906976745,
+    "number_of_votes": 129,
+    "url": "is-it-okay-to-physically-torture-prisoners-10378.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 1,
+      "MAS": 2,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "HumanRights",
+      "Justice",
+      "Law",
+      "Violence"
+    ]
+  },
+  {
+    "score": 2.8823529411764706,
+    "number_of_votes": 17,
+    "url": "is-it-wrong-to-have-a-lockdown-for-covid-19-36981.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 4,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 2,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": -1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Coronavirus",
+      "Health"
+    ]
+  },
+  {
+    "score": 3.2,
+    "number_of_votes": 5,
+    "url": "is-pure-recreation-immoral-when-we-could-be-helping-to-end-suffering-25148.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "UNDETERMINED",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 6,
+      "MAS": 6,
+      "UAI": 1,
+      "LTO": 4,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Ethics",
+      "Morality",
+      "Philosophy"
+    ]
+  },
+  {
+    "score": 3.8,
+    "number_of_votes": 5,
+    "url": "is-sex-with-no-emotional-attachment-good-for-your-mind-30085.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 4,
+      "MAS": 4,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Health",
+      "Humans",
+      "Psychology",
+      "Sex"
+    ]
+  },
+  {
+    "score": 1.6666666666666667,
+    "number_of_votes": 6,
+    "url": "is-the-competition-among-gaming-consoles-a-bad-thing-5119.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 8,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Console",
+      "Games",
+      "Gaming",
+      "Microsoft",
+      "Nintendo"
+    ]
+  },
+  {
+    "score": 4.625,
+    "number_of_votes": 8,
+    "url": "is-youtube-enforcing-censorship-through-the-demonetization-policy-8122.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Censorship",
+      "FreeSpeech",
+      "Internet",
+      "Media"
+    ]
+  },
+  {
+    "score": 4.6,
+    "number_of_votes": 5,
+    "url": "people-should-negotiate-relationship-agreements-16501.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 7,
+      "MAS": 4,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Gender",
+      "Humans",
+      "Relationships",
+      "Sex"
+    ]
+  },
+  {
+    "score": 3.789473684210526,
+    "number_of_votes": 19,
+    "url": "schools-should-eliminate-grades-and-replace-them-with-competency-based-education-4555.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "UNDETERMINED",
+      "MAS": "YES",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 4,
+      "MAS": 6,
+      "UAI": 8,
+      "LTO": 4,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": -2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Competency",
+      "Education"
+    ]
+  },
+  {
+    "score": 4.25,
+    "number_of_votes": 16,
+    "url": "scottish-independence-should-scotland-be-an-independent-country-8363.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Europe",
+      "Freedom",
+      "Politics",
+      "UK"
+    ]
+  },
+  {
+    "score": 3.357142857142857,
+    "number_of_votes": 14,
+    "url": "should-all-companies-be-entirely-owned-by-their-workers-4774.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 7,
+      "MAS": 4,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 14,
+    "url": "should-all-eu-citizens-be-obliged-by-law-to-vote-in-eu-elections-26929.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 5,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "EU",
+      "Elections",
+      "Europe",
+      "Thistimeimvoting"
+    ]
+  },
+  {
+    "score": 2.55,
+    "number_of_votes": 20,
+    "url": "should-all-major-political-decisions-be-made-via-public-referendum-28455.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Politics",
+      "Referendum",
+      "Thistimeimvoting"
+    ]
+  },
+  {
+    "score": 3.8333333333333335,
+    "number_of_votes": 6,
+    "url": "should-apple-help-the-fbi-hack-terrorists-phones-1154.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 4,
+      "MAS": 2,
+      "UAI": 5,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Apple",
+      "Ethics",
+      "FBI",
+      "USA"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 6,
+    "url": "should-businesses-be-allowed-to-deny-service-to-anyone-16931.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 7,
+      "MAS": 1,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Business",
+      "Economics",
+      "Equality",
+      "HumanRights",
+      "Politics"
+    ]
+  },
+  {
+    "score": 2.7142857142857144,
+    "number_of_votes": 21,
+    "url": "should-businesses-deny-service-to-trump-administration-officials-16322.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Politics",
+      "Trump"
+    ]
+  },
+  {
+    "score": 3.8,
+    "number_of_votes": 5,
+    "url": "should-children-be-allowed-on-social-media-17797.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 2,
+      "IND": 6
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Children",
+      "Education",
+      "Society",
+      "Technology"
+    ]
+  },
+  {
+    "score": 3.235294117647059,
+    "number_of_votes": 17,
+    "url": "should-compulsory-school-education-focus-on-science-rather-than-humanities-33519.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 5,
+      "UAI": 3,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "Europe"
+    ]
+  },
+  {
+    "score": 4.75,
+    "number_of_votes": 8,
+    "url": "should-doctors-be-banned-from-performing-genital-reshaping-surgery-on-intersex-infants-13219.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 3,
+      "MAS": 6,
+      "UAI": 3,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Gender",
+      "Health",
+      "Medicine",
+      "Science"
+    ]
+  },
+  {
+    "score": 4.8,
+    "number_of_votes": 5,
+    "url": "should-equal-paternitymaternity-paid-leave-be-mandatory-19163.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 6,
+      "MAS": 8,
+      "UAI": 4,
+      "LTO": 2,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Feminism"
+    ]
+  },
+  {
+    "score": 2.6,
+    "number_of_votes": 20,
+    "url": "should-gambling-be-banned-in-europe-1027.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 7,
+      "LTO": 3,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Europe",
+      "Law"
+    ]
+  },
+  {
+    "score": 2.1666666666666665,
+    "number_of_votes": 6,
+    "url": "should-governments-fund-security-for-places-of-worship-30679.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 7,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Security",
+      "Taxation",
+      "Terrorism"
+    ]
+  },
+  {
+    "score": 3.2,
+    "number_of_votes": 5,
+    "url": "should-governments-intervene-militarily-in-other-nations-for-moral-reasons-23484.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 0,
+      "MAS": 4,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Government",
+      "Military",
+      "UN"
+    ]
+  },
+  {
+    "score": 3.3636363636363638,
+    "number_of_votes": 11,
+    "url": "should-hpv-vaccinations-be-compulsory-1029.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 3,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Health",
+      "Medicine",
+      "Parenting",
+      "Sex",
+      "Vaccines"
+    ]
+  },
+  {
+    "score": 2.5925925925925926,
+    "number_of_votes": 27,
+    "url": "should-hunger-games-style-tournaments-be-legal-1473.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 7,
+      "MAS": 8,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 7
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Ethics",
+      "Law"
+    ]
+  },
+  {
+    "score": 3.1666666666666665,
+    "number_of_votes": 6,
+    "url": "should-india-have-a-ubi-9903.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 3,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.8461538461538463,
+    "number_of_votes": 13,
+    "url": "should-india-return-to-a-paper-ballot-11371.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 5,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Elections",
+      "India",
+      "Politics",
+      "Technology"
+    ]
+  },
+  {
+    "score": 2.5,
+    "number_of_votes": 8,
+    "url": "should-individuals-be-allowed-paid-period-leave-15179.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 6,
+      "MAS": 6,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 1
+    },
+    "categories": [
+      "Feminism",
+      "Gender",
+      "Medicine",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.125,
+    "number_of_votes": 8,
+    "url": "should-individuals-sentenced-to-life-in-prison-be-allowed-to-choose-death-instead-29827.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Crimes",
+      "Death",
+      "Ethics",
+      "Justice"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 8,
+    "url": "should-inheritance-be-minimized-to-create-an-equal-outset-for-everyone-7835.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 7,
+      "MAS": 5,
+      "UAI": 2,
+      "LTO": 4,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 1,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Equality",
+      "Ethics",
+      "Law",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.555555555555555,
+    "number_of_votes": 18,
+    "url": "should-isis-fighters-be-allowed-to-return-home-13187.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 7,
+      "MAS": 0,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "HumanRights",
+      "Justice",
+      "Law",
+      "Violence",
+      "War"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 10,
+    "url": "should-journalists-publish-hacked-data-9128.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 6,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Internet",
+      "Journalism",
+      "Media",
+      "News"
+    ]
+  },
+  {
+    "score": 2.8333333333333335,
+    "number_of_votes": 12,
+    "url": "should-judges-be-elected-or-appointed-13672.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 6,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "America",
+      "Government",
+      "Justice",
+      "Law",
+      "USA"
+    ]
+  },
+  {
+    "score": 3.6,
+    "number_of_votes": 5,
+    "url": "should-medical-cannabis-patients-be-allowed-to-grow-their-own-medicine-7299.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Cannabis",
+      "Drugs",
+      "Law",
+      "Marijuana"
+    ]
+  },
+  {
+    "score": 3.925,
+    "number_of_votes": 40,
+    "url": "should-men-be-allowed-to-vote-on-abortion-legislation-14974.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 0,
+      "MAS": 3,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Abortion",
+      "Democracy",
+      "Feminism",
+      "Gender"
+    ]
+  },
+  {
+    "score": 4.5,
+    "number_of_votes": 6,
+    "url": "should-men-be-involved-and-trusted-in-childcare-3654.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 6,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Gender",
+      "Parenting"
+    ]
+  },
+  {
+    "score": 3.2777777777777777,
+    "number_of_votes": 18,
+    "url": "should-men-pay-child-support-when-abortion-is-legal-18634.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 7,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Abortion",
+      "Children",
+      "Ethics",
+      "Gender",
+      "Law"
+    ]
+  },
+  {
+    "score": 3.2857142857142856,
+    "number_of_votes": 7,
+    "url": "should-more-women-work-in-construction-in-the-us-12610.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Jobs",
+      "USA",
+      "Women",
+      "Work"
+    ]
+  },
+  {
+    "score": 1.8085106382978724,
+    "number_of_votes": 47,
+    "url": "should-obligatory-communitymilitary-service-be-introduced-2854.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 8,
+      "MAS": 4,
+      "UAI": 7,
+      "LTO": 4,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Ethics",
+      "Law",
+      "Military",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.333333333333333,
+    "number_of_votes": 6,
+    "url": "should-people-adopt-rather-than-have-children-of-their-own-5409.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 6,
+      "MAS": 5,
+      "UAI": 2,
+      "LTO": 4,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Morality",
+      "Parenting"
+    ]
+  },
+  {
+    "score": 2.857142857142857,
+    "number_of_votes": 14,
+    "url": "should-people-be-free-to-choose-the-country-in-which-they-live-16184.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 8,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Immigration",
+      "Philosophy",
+      "Politics"
+    ]
+  },
+  {
+    "score": 1.9,
+    "number_of_votes": 10,
+    "url": "should-people-in-positions-of-authority-resign-when-accused-of-sexual-assault-25981.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 3,
+      "MAS": 3,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Justice",
+      "Politics",
+      "Sex",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.944444444444445,
+    "number_of_votes": 18,
+    "url": "should-police-officers-wear-body-cameras-15727.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Police",
+      "Privacy",
+      "Safety"
+    ]
+  },
+  {
+    "score": 2.5609756097560976,
+    "number_of_votes": 41,
+    "url": "should-referendums-be-abolished-1785.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 4,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Politics",
+      "Referendum",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.15,
+    "number_of_votes": 20,
+    "url": "should-religious-exemptions-to-discrimination-laws-be-abolished-18593.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 1,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Equality",
+      "Government",
+      "Jobs",
+      "Law",
+      "Religion",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.8,
+    "number_of_votes": 5,
+    "url": "should-renewable-energy-sources-replace-fossil-fuels-15900.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 7,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "ClimateChange",
+      "Earth",
+      "Economics",
+      "Environment"
+    ]
+  },
+  {
+    "score": 3.3863636363636362,
+    "number_of_votes": 44,
+    "url": "should-routine-childhood-vaccines-be-mandatory-5746.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 2,
+      "UAI": 8,
+      "LTO": 4,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Health",
+      "Law",
+      "Medicine",
+      "Politics",
+      "Vaccines"
+    ]
+  },
+  {
+    "score": 3.625,
+    "number_of_votes": 8,
+    "url": "should-schools-have-more-security-13854.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 1,
+      "UAI": 7,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Gun",
+      "Police",
+      "Politics",
+      "School",
+      "Society",
+      "Violence"
+    ]
+  },
+  {
+    "score": 2.6,
+    "number_of_votes": 5,
+    "url": "should-social-networks-force-users-to-use-their-real-identity-19383.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 1,
+      "UAI": 6,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Anonymity",
+      "Internet",
+      "Technology"
+    ]
+  },
+  {
+    "score": 3.8205128205128207,
+    "number_of_votes": 39,
+    "url": "should-society-treat-obesity-as-an-acceptable-lifestyle-choice-1528.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 4,
+      "UAI": 1,
+      "LTO": 2,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Health",
+      "Lifestyle",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.566666666666667,
+    "number_of_votes": 30,
+    "url": "should-some-teachers-be-armed-9762.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 0,
+      "MAS": 1,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Gun",
+      "Politics",
+      "School",
+      "Violence"
+    ]
+  },
+  {
+    "score": 4.647058823529412,
+    "number_of_votes": 51,
+    "url": "should-the-european-union-legalize-marijuana-17773.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "EU",
+      "Europe",
+      "Law",
+      "Marijuana",
+      "Medicine",
+      "Policy"
+    ]
+  },
+  {
+    "score": 2.1666666666666665,
+    "number_of_votes": 6,
+    "url": "should-the-government-reimpose-a-lockdown-if-covid-19-cases-spike-again-38833.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 4,
+      "MAS": 1,
+      "UAI": 8,
+      "LTO": 3,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "COVID-19",
+      "Pandemic"
+    ]
+  },
+  {
+    "score": 4.166666666666667,
+    "number_of_votes": 6,
+    "url": "should-the-president-of-the-european-commission-be-directly-elected-15399.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "EU",
+      "Europe",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.1666666666666665,
+    "number_of_votes": 6,
+    "url": "should-the-religious-texts-of-the-main-monotheistic-religions-be-interpreted-literally-38132.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 1,
+      "MAS": 1,
+      "UAI": 7,
+      "LTO": 1,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Faith",
+      "Religion"
+    ]
+  },
+  {
+    "score": 3.9881889763779528,
+    "number_of_votes": 254,
+    "url": "should-the-uk-remain-in-the-eu-if-the-only-alternative-is-a-hard-brexit-8708.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 5,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": -1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Brexit",
+      "EU",
+      "Europe",
+      "Politics",
+      "UK"
+    ]
+  },
+  {
+    "score": 1.6666666666666667,
+    "number_of_votes": 45,
+    "url": "should-the-united-states-be-the-global-police-13386.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 2,
+      "MAS": 5,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Police",
+      "Politics",
+      "Security",
+      "USA"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 7,
+    "url": "should-the-us-ban-the-production-and-distribution-of-genetically-modified-foods-12984.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Food",
+      "GMO",
+      "Health",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.6666666666666667,
+    "number_of_votes": 6,
+    "url": "should-the-us-government-guarantee-every-citizen-a-job-24455.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "UNDETERMINED",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 4,
+      "UAI": 8,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Jobs",
+      "Policy",
+      "Politics",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.571428571428571,
+    "number_of_votes": 7,
+    "url": "should-the-us-have-pulled-out-of-the-paris-climate-agreement-15487.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 3,
+      "LTO": 7,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Climate",
+      "ClimateChange",
+      "Trump",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.125,
+    "number_of_votes": 16,
+    "url": "should-the-us-president-have-the-power-to-self-pardon-15666.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Justice",
+      "Politics",
+      "Trump",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.4375,
+    "number_of_votes": 16,
+    "url": "should-there-be-a-quota-for-millennial-representatives-in-the-european-parliament-28423.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 1,
+      "MAS": 1,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "EU",
+      "Europe",
+      "Politics",
+      "Thistimeimvoting"
+    ]
+  },
+  {
+    "score": 1.736842105263158,
+    "number_of_votes": 38,
+    "url": "should-there-be-trigger-warnings-in-education-16218.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 3,
+      "MAS": 3,
+      "UAI": 7,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "School",
+      "Violence"
+    ]
+  },
+  {
+    "score": 1.6666666666666667,
+    "number_of_votes": 9,
+    "url": "should-traffic-finally-be-redesigned-with-this-simple-new-hitchhiking-law-13449.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Cars",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.789473684210526,
+    "number_of_votes": 19,
+    "url": "should-unpaid-internships-be-banned-25803.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 2,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Education",
+      "Politics",
+      "Work"
+    ]
+  },
+  {
+    "score": 5.0,
+    "number_of_votes": 9,
+    "url": "should-us-military-spending-be-cut-in-favor-of-other-programs-17775.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 7,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Military",
+      "Politics",
+      "Society",
+      "Taxation",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.666666666666667,
+    "number_of_votes": 15,
+    "url": "should-we-have-opt-out-organ-donation-11767.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 5,
+      "MAS": 2,
+      "UAI": 5,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": -1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Health",
+      "Medicine"
+    ]
+  },
+  {
+    "score": 1.3333333333333333,
+    "number_of_votes": 9,
+    "url": "should-we-increase-the-number-of-votes-for-people-who-pay-more-taxes-4608.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 2,
+      "MAS": 3,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Elections",
+      "Equality",
+      "Money",
+      "Politics",
+      "Taxation",
+      "Taxes"
+    ]
+  },
+  {
+    "score": 4.166666666666667,
+    "number_of_votes": 6,
+    "url": "skal-hash-legaliseres-i-danmark-5306.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 7
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": []
+  },
+  {
+    "score": 3.642857142857143,
+    "number_of_votes": 14,
+    "url": "sporting-idols-and-domestic-abuse-where-should-sporting-leagues-draw-a-line-1835.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 2,
+      "MAS": 6,
+      "UAI": 5,
+      "LTO": 1,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 1,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "DomesticViolence",
+      "Gender",
+      "Society",
+      "Sports"
+    ]
+  },
+  {
+    "score": 4.6,
+    "number_of_votes": 5,
+    "url": "the-international-community-should-work-towards-recognizing-an-independent-kurdish-state-4272.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Politics",
+      "War"
+    ]
+  },
+  {
+    "score": 4.103448275862069,
+    "number_of_votes": 29,
+    "url": "the-libertarian-solution-can-people-govern-themselves-12278.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 7,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 6
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 1
+    },
+    "categories": [
+      "Capitalism",
+      "Freedom",
+      "Government",
+      "Politics"
+    ]
+  },
+  {
+    "score": 4.2,
+    "number_of_votes": 5,
+    "url": "the-online-games-platform-steam-should-perform-quality-control-on-games-before-publishing-them-15787.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 8,
+      "LTO": 2,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Ethics",
+      "Games",
+      "Technology"
+    ]
+  },
+  {
+    "score": 2.875,
+    "number_of_votes": 8,
+    "url": "the-primary-purpose-of-marriage-is-procreating-and-raising-children-4857.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 5,
+      "UAI": 1,
+      "LTO": 3,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Marriage",
+      "Parenting"
+    ]
+  },
+  {
+    "score": 4.25,
+    "number_of_votes": 8,
+    "url": "the-usa-should-have-national-id-cards-4119.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 6,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Identity",
+      "Law",
+      "Politics",
+      "USA"
+    ]
+  },
+  {
+    "score": 2.6666666666666665,
+    "number_of_votes": 6,
+    "url": "timesup-should-individuals-credibly-accused-of-sexual-assault-or-harassment-be-fired-from-positions-of-authority-8933.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 4,
+      "MAS": 3,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Gender",
+      "Justice",
+      "Society",
+      "USA",
+      "Women"
+    ]
+  },
+  {
+    "score": 3.1,
+    "number_of_votes": 10,
+    "url": "was-the-ussr-communist-4051.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Politics",
+      "World"
+    ]
+  },
+  {
+    "score": 2.1857142857142855,
+    "number_of_votes": 70,
+    "url": "who-should-provide-healthcare-the-government-or-the-market-2799.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 8,
+      "MAS": 3,
+      "UAI": 4,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Health",
+      "Politics"
+    ]
+  },
+  {
+    "score": 4.25,
+    "number_of_votes": 32,
+    "url": "will-liquid-democracy-be-a-better-mechanism-of-governance-than-representative-democracy-7865.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Elections",
+      "Law",
+      "Political",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 5,
+    "url": "will-the-future-be-better-than-the-present-24172.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 1,
+      "UAI": 1,
+      "LTO": 8,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Future",
+      "Society",
+      "Technology"
+    ]
+  },
+  {
+    "score": 2.2,
+    "number_of_votes": 10,
+    "url": "would-a-global-social-credit-system-be-beneficial-13627.csv",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 3,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 3,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Government",
+      "Politics",
+      "Society",
+      "Technology",
+      "World"
+    ]
+  },
+  {
+    "score": 2.923076923076923,
+    "number_of_votes": 13,
+    "url": "would-a-non-monetary-economy-be-ideal-38924.csv",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 4,
+      "MAS": 5,
+      "UAI": 2,
+      "LTO": 4,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Capitalism",
+      "Economics"
+    ]
+  },
+  {
+    "score": 3.730769230769231,
+    "number_of_votes": 26,
+    "url": "would-humanity-be-better-off-under-a-global-government-16070.csv",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.6666666666666665,
+    "number_of_votes": 3,
+    "url": "disposable-plastic-items-should-be-banned-29627.csv",
+    "claim": "Single-use plastic items should be banned.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 1,
+      "UAI": 2,
+      "LTO": 6,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Environment",
+      "Health",
+      "Sustainability"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 4,
+    "url": "is-civil-disobedience-in-a-democracy-morally-justified-64275.csv",
+    "claim": "Civil disobedience is morally justified, even in a democracy.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Morality"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 3,
+    "url": "is-the-uk-nhs-national-health-service-sustainable-7396.csv",
+    "claim": "The UK NHS (National Health Service) is not sustainable.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 1,
+      "UAI": 1,
+      "LTO": 5,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": -1,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Health",
+      "UK"
+    ]
+  },
+  {
+    "score": 1.3333333333333333,
+    "number_of_votes": 3,
+    "url": "should-adults-watch-anime-36304.csv",
+    "claim": "Adults should not watch anime.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 7
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Children",
+      "Entertainment",
+      "TV"
+    ]
+  },
+  {
+    "score": 2.75,
+    "number_of_votes": 4,
+    "url": "should-billionaires-be-banned-16716.csv",
+    "claim": "Billionaires should be taxed at 100% on all wealth over $999,999,999.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 7,
+      "IDV": 3,
+      "MAS": 1,
+      "UAI": 1,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Ethics",
+      "Politics",
+      "Taxation"
+    ]
+  },
+  {
+    "score": 3.5,
+    "number_of_votes": 4,
+    "url": "should-developed-countries-reduce-the-working-year-14410.csv",
+    "claim": "Developed countries should reduce the working year.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 6,
+      "UAI": 1,
+      "LTO": 3,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Economics",
+      "Equality",
+      "Government",
+      "Policy",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.333333333333333,
+    "number_of_votes": 3,
+    "url": "should-empathy-be-taught-in-school-9812.csv",
+    "claim": "Empathy should be taught in school.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "Ethics",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 3,
+    "url": "should-mexico-legalize-drugs-23626.csv",
+    "claim": "Mexico should legalize drugs.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 2,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Drugs",
+      "Economics",
+      "Mexico",
+      "Politics",
+      "Violence"
+    ]
+  },
+  {
+    "score": 2.6666666666666665,
+    "number_of_votes": 3,
+    "url": "should-student-loans-be-written-off-12676.csv",
+    "claim": "Student Loans Should Be Written Off.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 3,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 6,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": -1,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Education",
+      "Government",
+      "Politics",
+      "Student"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 3,
+    "url": "should-us-immigration-and-customs-enforcement-ice-be-eliminated-15098.csv",
+    "claim": "U.S. Immigration and Customs Enforcement (ICE) should be eliminated.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Immigration",
+      "Police",
+      "Politics",
+      "USA"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 3,
+    "url": "should-use-of-disposable-items-be-limited-15306.csv",
+    "claim": "Use of disposable items should be limited.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 3,
+      "UAI": 1,
+      "LTO": 7,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Law"
+    ]
+  },
+  {
+    "score": 4.333333333333333,
+    "number_of_votes": 3,
+    "url": "the-benefits-of-home-schooling-outweigh-the-benefits-of-traditional-schooling-61897.csv",
+    "claim": "The benefits of home-schooling outweigh the benefits of traditional schooling.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "Learning",
+      "School"
+    ]
+  },
+  {
+    "score": 1.0,
+    "number_of_votes": 4,
+    "url": "we-should-not-consume-the-works-of-artists-who-have-been-accused-or-convicted-of-serious-crimes-14365.csv",
+    "claim": "We should not consume the works of artists who have been accused or convicted of serious crimes",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 1,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Art",
+      "Justice",
+      "Law",
+      "Media",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.75,
+    "number_of_votes": 4,
+    "url": "a-permanent-venue-for-the-olympic-games-1335.csv",
+    "claim": "The International Olympic Committee (IOC) should create a permanent venue for the Olympic Games.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 4,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 3,
+    "url": "can-teaching-textbooks-be-replaced-by-online-resources-15106.csv",
+    "claim": "K-12 teachers should replace textbooks with projects and teacher-selected online resources.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 5,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": -1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Education",
+      "Technology",
+      "USA"
+    ]
+  },
+  {
+    "score": 5.0,
+    "number_of_votes": 3,
+    "url": "cities-should-be-designed-around-pedestriansbicyclists-and-not-cars-8461.csv",
+    "claim": "Cities should be designed around pedestrians/bicyclists and not cars.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 6,
+      "UAI": 0,
+      "LTO": 3,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Cars",
+      "Future",
+      "Humans",
+      "Society"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 3,
+    "url": "does-crime-control-speedy-justice-trump-due-process-18480.csv",
+    "claim": "Crime Control (Speedy Justice) trumps Due Process.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "UNDETERMINED",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 4,
+      "MAS": 4,
+      "UAI": 8,
+      "LTO": 4,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Justice",
+      "Law",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 4,
+    "url": "does-islam-support-slavery-51173.csv",
+    "claim": "Islam supports slavery.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Islam",
+      "Religion"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 3,
+    "url": "edward-snowden-whistleblower-or-traitor-7488.csv",
+    "claim": "Edward Snowden is a whistleblower, not a traitor.",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Law",
+      "Security"
+    ]
+  },
+  {
+    "score": 4.666666666666667,
+    "number_of_votes": 3,
+    "url": "everyone-should-health-track---self-quantify-49787.csv",
+    "claim": "Everyone Should Health Track - Self Quantify",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 7,
+      "MAS": 3,
+      "UAI": 4,
+      "LTO": 5,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Health",
+      "Technology"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 4,
+    "url": "if-we-could-only-save-one-from-a-fire-should-we-save-a-famous-painting-or-a-cat-42328.csv",
+    "claim": "If we could only save one from a fire, we should save a famous painting instead of a cat",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 5,
+      "UAI": 1,
+      "LTO": 3,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Artists",
+      "Culture"
+    ]
+  },
+  {
+    "score": 4.5,
+    "number_of_votes": 4,
+    "url": "is-attachment-parenting-the-best-way-to-raise-a-child-11504.csv",
+    "claim": "Attachment Parenting is the Best Way to Raise a Child.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 7,
+      "UAI": 1,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Parenting",
+      "UK",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.25,
+    "number_of_votes": 4,
+    "url": "is-having-police-officers-in-schools-a-good-idea-22512.csv",
+    "claim": "Having police officers in schools is a good idea.",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 6,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Education",
+      "Police",
+      "School",
+      "Violence"
+    ]
+  },
+  {
+    "score": 4.333333333333333,
+    "number_of_votes": 3,
+    "url": "is-morality-an-obstacle-to-personal-happiness-25836.csv",
+    "claim": "Morality is an obstacle to personal happiness.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 5,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Ethics",
+      "Philosophy"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 3,
+    "url": "is-there-a-right-to-anonymity-5734.csv",
+    "claim": "People have a right to remain anonymous.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Anonymity",
+      "Ethics",
+      "Law",
+      "Privacy"
+    ]
+  },
+  {
+    "score": 4.25,
+    "number_of_votes": 4,
+    "url": "le-tirage-au-sort-des-parlementaires-est-il-une-alternative-souhaitable-%C3%A0-l%C3%A9lection--50716.csv",
+    "claim": "Remplacer l'élection des parlementaires par un tirage au sort.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 4,
+      "MAS": 1,
+      "UAI": 7,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": -2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": []
+  },
+  {
+    "score": 4.666666666666667,
+    "number_of_votes": 3,
+    "url": "new-zealanders-should-vote-yes-in-the-cannabis-referendum-38093.csv",
+    "claim": "New Zealanders should vote yes in the Cannabis referendum.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Cannabis",
+      "Referendum"
+    ]
+  },
+  {
+    "score": 3.75,
+    "number_of_votes": 4,
+    "url": "paro-nacional-colombia-32298.csv",
+    "claim": "Paro Nacional Colombia",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 3,
+      "MAS": 2,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Politics"
+    ]
+  },
+  {
+    "score": 4.666666666666667,
+    "number_of_votes": 3,
+    "url": "politicians-second-jobs-should-they-be-allowed-to-keep-them-17066.csv",
+    "claim": "Politicians should be allowed no incomes except the salary they receive as members of parliament.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 3,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": -2,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Business",
+      "Ethics",
+      "Government",
+      "Jobs",
+      "Parliament",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.0,
+    "number_of_votes": 3,
+    "url": "pour-sauver-la-plan%C3%A8te-doit-on-rejoindre-la-cause-des-gilets-jaunes--24216.csv",
+    "claim": "Pour sauver la planète il faut se joindre à la cause des Gilets Jaunes.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 7,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 3,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ecologie",
+      "Economie"
+    ]
+  },
+  {
+    "score": 4.25,
+    "number_of_votes": 4,
+    "url": "should-all-human-interaction-be-voluntary-6835.csv",
+    "claim": "All human interaction should be voluntary",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 8,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 5.0,
+    "number_of_votes": 3,
+    "url": "should-australia-limit-immigration-to-achieve-a-sustainable-population-2223.csv",
+    "claim": "Australia should limit immigration to achieve a sustainable population.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 4,
+      "LTO": 6,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 0
+    },
+    "categories": [
+      "Australia",
+      "Government",
+      "Immigration"
+    ]
+  },
+  {
+    "score": 1.25,
+    "number_of_votes": 4,
+    "url": "should-breastfeeding-be-mandatory-16093.csv",
+    "claim": "Breastfeeding should be mandatory.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 3,
+      "MAS": 6,
+      "UAI": 3,
+      "LTO": 2,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Health",
+      "Law",
+      "Women"
+    ]
+  },
+  {
+    "score": 3.75,
+    "number_of_votes": 4,
+    "url": "should-children-be-raised-communally-60576.csv",
+    "claim": "Children should be raised communally.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 8,
+      "MAS": 8,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": -2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Parents",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 3,
+    "url": "should-countries-have-closed-their-borders-to-china-to-reduce-the-spread-of-covid-19-33660.csv",
+    "claim": "Countries should have closed their borders to China to reduce the spread of COVID-19.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 3,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "China",
+      "Coronavirus",
+      "Disease",
+      "Health"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 4,
+    "url": "should-countries-keep-schools-closed-to-contain-the-spread-of-covid-19-38830.csv",
+    "claim": "Countries should keep schools closed to contain the spread of COVID-19.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 6,
+      "LTO": 3,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "COVID-19"
+    ]
+  },
+  {
+    "score": 3.75,
+    "number_of_votes": 4,
+    "url": "should-ear-piercing-of-newborns-be-banned-17841.csv",
+    "claim": "Ear piercing of newborns should be banned.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 2,
+      "MAS": 3,
+      "UAI": 4,
+      "LTO": 2,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Law",
+      "Society"
+    ]
+  },
+  {
+    "score": 1.3333333333333333,
+    "number_of_votes": 3,
+    "url": "should-genetic-engineering-be-used-on-humans-or-animals-28253.csv",
+    "claim": "Genetic engineering should not be used on humans or animals.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 6,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Animals",
+      "Ethics",
+      "Humans",
+      "Science",
+      "Technology"
+    ]
+  },
+  {
+    "score": 2.3333333333333335,
+    "number_of_votes": 3,
+    "url": "should-governments-pursue-predictive-policing-technology-30446.csv",
+    "claim": "Governments should pursue predictive policing technology.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 4,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Crimes",
+      "Justice",
+      "Police"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 4,
+    "url": "should-graphic-warning-images-be-removed-from-cigarette-packaging-1383.csv",
+    "claim": "Graphic warning images on cigarette packaging should be removed.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 1,
+      "LTO": 2,
+      "IND": 7
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "EU",
+      "Europe",
+      "Politics"
+    ]
+  },
+  {
+    "score": 3.3333333333333335,
+    "number_of_votes": 3,
+    "url": "should-it-be-mandatory-for-cyclists-to-wear-helmets-23796.csv",
+    "claim": "It should not be mandatory for cyclists to wear helmets",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 6,
+      "MAS": 0,
+      "UAI": 4,
+      "LTO": 1,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Health",
+      "Law",
+      "Safety",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.25,
+    "number_of_votes": 4,
+    "url": "should-long-term-solitary-confinement-be-stopped-8961.csv",
+    "claim": "Long-term solitary confinement should be stopped.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 3,
+      "UAI": 0,
+      "LTO": 1,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Justice",
+      "Law",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.25,
+    "number_of_votes": 4,
+    "url": "should-nations-exist-17707.csv",
+    "claim": "Nations/states should be abolished.",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Government",
+      "Philosophy",
+      "Society"
+    ]
+  },
+  {
+    "score": 5.0,
+    "number_of_votes": 3,
+    "url": "should-paternity-testing-be-mandatory-at-birth-51123.csv",
+    "claim": "Paternity testing should be mandatory at birth.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 4,
+      "MAS": 2,
+      "UAI": 6,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Equality",
+      "Marriage"
+    ]
+  },
+  {
+    "score": 2.6666666666666665,
+    "number_of_votes": 3,
+    "url": "should-private-property-exist-in-outer-space-4711.csv",
+    "claim": "Private property should exist in outer space.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 5,
+      "MAS": 2,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Law",
+      "Space"
+    ]
+  },
+  {
+    "score": 5.0,
+    "number_of_votes": 4,
+    "url": "should-profanity-be-permitted-in-debate-17848.csv",
+    "claim": "Profanity Should be Permitted in Debate",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 1,
+      "IDV": 2,
+      "MAS": 1,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Debate",
+      "Ethics",
+      "Politics",
+      "Speech"
+    ]
+  },
+  {
+    "score": 2.5,
+    "number_of_votes": 4,
+    "url": "should-school-be-mandatory-until-12th-grade-23318.csv",
+    "claim": "School should be mandatory until 12th grade.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "UNDETERMINED",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 3,
+      "MAS": 0,
+      "UAI": 5,
+      "LTO": 4,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Education",
+      "Government",
+      "Politics",
+      "School"
+    ]
+  },
+  {
+    "score": 2.75,
+    "number_of_votes": 4,
+    "url": "should-senator-al-franken-be-removed-from-office-5557.csv",
+    "claim": "Senator Al Franken should resign or be removed from office, specifically because of allegations of sexual harassment.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 6,
+      "IDV": 2,
+      "MAS": 5,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 3
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Politics"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 4,
+    "url": "should-states-require-mandatory-drug-testing-for-welfare-recipients-13057.csv",
+    "claim": "States should require a mandatory drug testing for welfare recipients.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "UNDETERMINED"
+    },
+    "count_yes": {
+      "PDI": 5,
+      "IDV": 3,
+      "MAS": 2,
+      "UAI": 5,
+      "LTO": 0,
+      "IND": 4
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Drugs",
+      "Economics",
+      "Government",
+      "Law",
+      "Politics"
+    ]
+  },
+  {
+    "score": 1.6666666666666667,
+    "number_of_votes": 3,
+    "url": "should-the-citizens-right-to-benefit-from-technology-for-privacy-and-secrecy-overrule-the-role--of-government-31141.csv",
+    "claim": "Nobody, and no business, should be allowed to confound access (by authorities) to any communication required for law and security reasons that might affect human life.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 8,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "AI",
+      "Ethics",
+      "Law",
+      "Safety",
+      "Technology"
+    ]
+  },
+  {
+    "score": 2.0,
+    "number_of_votes": 3,
+    "url": "should-the-poor-be-a-protected-equality-group-8457.csv",
+    "claim": "The \"Poor\" should be a protected equality group.",
+    "dimensions": {
+      "PDI": "YES",
+      "IDV": "UNDETERMINED",
+      "MAS": "UNDETERMINED",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 7,
+      "IDV": 4,
+      "MAS": 4,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": -1,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Equality",
+      "HumanRights",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "score": 4.0,
+    "number_of_votes": 4,
+    "url": "should-the-us-forgive-student-loan-debt-for-all-10154.csv",
+    "claim": "Student loan debt in the US should be forgiven for all.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Economics",
+      "Education",
+      "Politics",
+      "Society",
+      "USA"
+    ]
+  },
+  {
+    "score": 1.25,
+    "number_of_votes": 4,
+    "url": "should-vaccine-passports-be-mandatory-49452.csv",
+    "claim": "Vaccine passports should be mandatory.",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 5,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 2,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -1,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "COVID-19",
+      "Ethics",
+      "Law",
+      "Vaccines"
+    ]
+  },
+  {
+    "score": 3.5,
+    "number_of_votes": 4,
+    "url": "should-virtual-reality-vr-worlds-exist-17100.csv",
+    "claim": "Virtual reality (VR) spaces should be created for everyone to live in.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 1,
+      "LTO": 0,
+      "IND": 5
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "categories": [
+      "Economics",
+      "Ethics",
+      "Society",
+      "Technology"
+    ]
+  },
+  {
+    "score": 3.25,
+    "number_of_votes": 4,
+    "url": "should-we-conserve-the-wilderness-if-animals-suffer-terribly-in-their-natural-environment-38985.csv",
+    "claim": "We should conserve the wilderness even if animals suffer terribly in their natural environment",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 1,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 5,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Death",
+      "Environment",
+      "Philosophy"
+    ]
+  },
+  {
+    "score": 4.5,
+    "number_of_votes": 4,
+    "url": "should-wearing-masks-be-mandatory-for-everyone-35647.csv",
+    "claim": "Wearing masks should be mandatory for everyone.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 3,
+      "IDV": 5,
+      "MAS": 1,
+      "UAI": 8,
+      "LTO": 2,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "COVID-19",
+      "Coronavirus",
+      "Health",
+      "Pandemic"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 3,
+    "url": "should-women-stay-at-home-to-raise-children-39952.csv",
+    "claim": "Women should stay at home to raise children.",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 6,
+      "MAS": 8,
+      "UAI": 2,
+      "LTO": 0,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": -2,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Children",
+      "Feminism",
+      "Women"
+    ]
+  },
+  {
+    "score": 2.3333333333333335,
+    "number_of_votes": 3,
+    "url": "south-korea-should-abandon-its-goal-of-unification-with-north-korea-2168.csv",
+    "claim": "South Korea should abandon its goal of unification with North Korea",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "UNDETERMINED",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 4,
+      "MAS": 0,
+      "UAI": 3,
+      "LTO": 5,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": -1,
+      "IND": 0
+    },
+    "categories": [
+      "Democracy",
+      "Diplomacy",
+      "International",
+      "Military",
+      "NorthKorea",
+      "NuclearWeapons",
+      "Politics",
+      "UnitedStates"
+    ]
+  },
+  {
+    "score": 2.75,
+    "number_of_votes": 4,
+    "url": "space-agencies-should-first-undertake-human-mission-to-marss-little-moons-before-attempting-marss-surface-7591.csv",
+    "claim": "Space agency's should first undertake Human mission to Mars's little moons before attempting to set foot on Mars's surface",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "YES",
+      "LTO": "YES",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 7,
+      "LTO": 7,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 2,
+      "LTO": 2,
+      "IND": 0
+    },
+    "categories": [
+      "Science",
+      "Space"
+    ]
+  },
+  {
+    "score": 3.6666666666666665,
+    "number_of_votes": 3,
+    "url": "the-desire-for-a-sense-of-superiority-is-a-fundamental-human-drive-49524.csv",
+    "claim": "The desire for a sense of superiority is a fundamental human drive.",
+    "dimensions": {
+      "PDI": "UNDETERMINED",
+      "IDV": "NO",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 4,
+      "IDV": 1,
+      "MAS": 6,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 1
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": []
+  },
+  {
+    "score": 2.5,
+    "number_of_votes": 4,
+    "url": "the-roles-an-actor-can-play-should-not-be-limited-by-that-actor%E2%80%99s-race-or-gender-30103.csv",
+    "claim": "The roles an actor can play should not be limited by that actor’s race, gender, or sexuality.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "YES",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 2,
+      "IDV": 5,
+      "MAS": 5,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": -1,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Culture",
+      "Gender",
+      "Race"
+    ]
+  },
+  {
+    "score": 1.75,
+    "number_of_votes": 4,
+    "url": "tumblrs-ban-on-pornographic-images-on-its-site-is-a-positive-step-24326.csv",
+    "claim": "Tumblr's ban of pornographic materials is a positive step.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "NO",
+      "MAS": "NO",
+      "UAI": "UNDETERMINED",
+      "LTO": "NO",
+      "IND": "YES"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 2,
+      "UAI": 4,
+      "LTO": 2,
+      "IND": 8
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 0,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": -2
+    },
+    "categories": [
+      "Ethics",
+      "Internet",
+      "Sex",
+      "Society"
+    ]
+  },
+  {
+    "score": 3.5,
+    "number_of_votes": 4,
+    "url": "what-makes-life-worth-living-from-an-individual-perspective-17146.csv",
+    "claim": "Life is worth living from an individual perspective.",
+    "dimensions": {
+      "PDI": "NO",
+      "IDV": "YES",
+      "MAS": "NO",
+      "UAI": "NO",
+      "LTO": "NO",
+      "IND": "NO"
+    },
+    "count_yes": {
+      "PDI": 0,
+      "IDV": 6,
+      "MAS": 2,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 2
+    },
+    "scores": {
+      "PDI": 0,
+      "IDV": 2,
+      "MAS": 0,
+      "UAI": 0,
+      "LTO": 0,
+      "IND": 0
+    },
+    "categories": [
+      "Ethics",
+      "Philosophy",
+      "Psychology"
+    ]
+  }
+]

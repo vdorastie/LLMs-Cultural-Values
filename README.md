@@ -2,7 +2,7 @@
 
 ## Updated data
 
-The `data/step_1.1` and `data/step_1.2` folders follow the existing `step_1` and `step_2` layout: an aggregate `predictions.json` and one `predictions.json` in each model and language folder. They combine the available `answers`, `answers_09.09.2025`, `answers_combined`, `answers_relaxed_v2`, `answers_threshold_new`, and `answers_v3` datasets from the corresponding `Hofstede_New` step. When the same debate URL occurs in several inputs, the later folder in that order supplies the record. Some models occur in only a subset of those folders, so their record counts differ.
+The `data/step_1.1` and `data/step_1.2` folders follow the existing `step_1` and `step_2` layout: an aggregate `predictions.json` and one `predictions.json` in each model and language folder. The model folders include only DeepSeek R1, GPT 5.4, Qwen 2.5, and Llama 3, each in Chinese and English. They combine the available `answers`, `answers_09.09.2025`, `answers_combined`, `answers_relaxed_v2`, `answers_threshold_new`, and `answers_v3` datasets from the corresponding `Hofstede_New` step. When the same debate URL occurs in several inputs, the later folder in that order supplies the record.
 
 Each record has a `categories` array sourced from `Kialo-Scraper/categories/claim_tags.json` (matched by debate URL without the `.csv` suffix). An empty array means no category was available in that source. Every output JSON has unique debate URLs.
 

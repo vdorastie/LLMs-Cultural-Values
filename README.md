@@ -22,7 +22,7 @@ The method starts with naturally occurring debate statements and their Kialo vot
 
    | Field | Meaning |
    | --- | --- |
-   | `url` | Kialo debate identifier, stored as a `.csv` filename rather than a full link. |
+   | `url` | Kialo debate identifier (for example, `affirmative-action-useful-once-outdated-today-1715`), without the domain. |
    | `claim` | Statement text, when present; some records omit this field. |
    | `score`, `number_of_votes` | Kialo voting score and vote count. |
    | `dimensions` | `YES`/`NO` relevance labels for `PDI`, `IDV`, `MAS`, `UAI`, `LTO`, and `IND`. |
@@ -33,7 +33,7 @@ The method starts with naturally occurring debate statements and their Kialo vot
 
    The dimension codes are power distance (`PDI`), individualism (`IDV`), masculinity (`MAS`), uncertainty avoidance (`UAI`), long term orientation (`LTO`), and indulgence (`IND`). See the [paper](_EMNLP2026__Hofstede_Dimensions.pdf) and [prompts](prompts/) for the definitions of each pole and the annotation procedure. For a model's position on a dimension, combine its agreement or disagreement with the statement's polarity score; disagreement reverses the score's sign.
 
-3. To retrieve a statement and its current voting histogram from Kialo, install Python's `selenium` package and make Firefox available to Selenium. The scraper in [scrape/scrape_link.py](scrape/scrape_link.py) accepts a **full Kialo link**, so remove `.csv` from the stored identifier and add the Kialo prefix:
+3. To retrieve a statement and its current voting histogram from Kialo, install Python's `selenium` package and make Firefox available to Selenium. The scraper in [scrape/scrape_link.py](scrape/scrape_link.py) accepts a **full Kialo link**, so add the Kialo prefix to the stored identifier:
 
    ```bash
    python3 -m pip install selenium
@@ -44,7 +44,7 @@ The method starts with naturally occurring debate statements and their Kialo vot
    with open("CultureProbe.json", encoding="utf-8") as file:
        record = json.load(file)[0]
 
-   debate_id = record["url"].removesuffix(".csv")
+   debate_id = record["url"]
    link = f"https://www.kialo.com/{debate_id}"
    scrape_one_link_to_json(link, out_dir="outputs", out_name=debate_id)
    PY

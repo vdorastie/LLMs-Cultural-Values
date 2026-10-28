@@ -52,4 +52,8 @@ The method starts with naturally occurring debate statements and their Kialo vot
 
    This writes `outputs/<debate_id>.json` with `url`, `statement`, and `votes`. The scraper reads Kialo's live page, so the statement or vote counts may differ from the released data. It depends on Kialo's current page layout.
 
-The [data](data/) directory contains intermediate and evaluation predictions; [prompts](prompts/) contains the English and Chinese prompts used for the two annotation stages and model evaluation.
+## Additional data files
+
+The [data](data/) directory contains intermediate and evaluation predictions. The newer `step_1.1` and `step_1.2` folders each have an aggregate `predictions.json` and separate files for DeepSeek R1, GPT 5.4, Qwen 2.5, and Llama 3 in English and Chinese. These files combine several source batches; when a debate URL appeared more than once, the later batch supplied its record. Their `categories` arrays contain available Kialo subject tags, or an empty array when no tag was available.
+
+The [step 2.1 final file](data/step_2.1/Hofstede_dimensions_with_llm_opinions_v3_thr3_final.json) contains the same 985 debate records as [CultureProbe.json](CultureProbe.json), plus a `categories` array for each record. Both include responses from eight model and language combinations. The [prompts](prompts/) directory contains the English and Chinese prompts used for annotation and evaluation.
